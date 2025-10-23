@@ -1,7 +1,7 @@
 #include <stdio.h>
  
 int side_a = 50; 
-int side_b = 80;
+int side_b = 20;
 
 int main () {
 
