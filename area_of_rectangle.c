@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-int side_a = 50; 
+int side_a = 70; 
 int side_b = 20;
 
 int main () {
