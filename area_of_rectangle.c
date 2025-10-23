@@ -7,7 +7,7 @@ int main () {
 
 	int area_a+b = a * b;
 
-	printf("area_a+b\n%d" area_a+b)
+	printf("arssssssea_a+b\n%d" area_a+b)
 
 	return 0;
 
