@@ -7,6 +7,7 @@ int main(){
 
 		printf("number  %d\n", i);	
 	}
+	printf("liftoff\n");
 
 
 
