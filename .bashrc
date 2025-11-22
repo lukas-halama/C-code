@@ -5,7 +5,8 @@
 # ------------------------------------
 # MY CUSTOM ALIASES
 # ------------------------------------
-
+#git commit -> push
+alias commit="git add . && git commit -m commit && git push"
 
 # Easier navigation
 alias ..="cd .."
@@ -16,7 +17,7 @@ alias ll="ls -alF"
 
 #change directory to where my code is stored
 alias c="cd /home/lukas/C-code/C-code"
-
+alias p="cd /home/lukas/kody_general/python_projects"
 # Shortcut to update my system
 alias update="sudo apt update && sudo apt upgrade -y"
 
