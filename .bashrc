@@ -5,6 +5,9 @@
 # ------------------------------------
 # MY CUSTOM ALIASES
 # ------------------------------------
+#Check Wifi Connection
+alias wifi='watch -n 1 "awk '\''NR==3 {print \"Signal Level: \" \$3 \" dBm\"}'\'' /proc/net/wireless"'
+
 #git commit -> push
 alias commit="git add . && git commit -m commit && git push"
 
